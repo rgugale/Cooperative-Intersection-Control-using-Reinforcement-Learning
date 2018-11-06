@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<connections xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/connections_file.xsd">
+	<connection from="1i" to="3o" fromLane="1" toLane="1" pass="true" />
+	<connection from="1i" to="4o" fromLane="2" toLane="2" pass="true" />
+	<connection from="1i" to="2o" fromLane="0" toLane="0" pass="true" />
+	
+	<connection from="51o" to="1i" fromLane="0" toLane="0" pass="true" />
+	<connection from="51o" to="1i" fromLane="1" toLane="1" pass="true" />
+	<connection from="51o" to="1i" fromLane="2" toLane="2" pass="true" />
+	
+	<connection from="1o" to="51i" fromLane="0" toLane="0" pass="true" />
+	<connection from="1o" to="51i" fromLane="1" toLane="1" pass="true" />
+	<connection from="1o" to="51i" fromLane="2" toLane="2" pass="true" />
+	
+	<connection from="2i" to="4o" fromLane="1" toLane="1" pass="true" />
+	<connection from="2i" to="1o" fromLane="2" toLane="2" pass="true" />
+	<connection from="2i" to="3o" fromLane="0" toLane="0" pass="true" />
+	
+	<connection from="53o" to="2i" fromLane="0" toLane="0" pass="true" />
+	<connection from="53o" to="2i" fromLane="1" toLane="1" pass="true" />
+	<connection from="53o" to="2i" fromLane="2" toLane="2" pass="true" />
+	
+	<connection from="2o" to="53i" fromLane="0" toLane="0" pass="true" />
+	<connection from="2o" to="53i" fromLane="1" toLane="1" pass="true" />
+	<connection from="2o" to="53i" fromLane="2" toLane="2" pass="true" />
+	
+	<connection from="3i" to="1o" fromLane="1" toLane="1" pass="true" />
+	<connection from="3i" to="2o" fromLane="2" toLane="2" pass="true" />
+	<connection from="3i" to="4o" fromLane="0" toLane="0" pass="true" />
+	
+	<connection from="52o" to="3i" fromLane="0" toLane="0" pass="true" />
+	<connection from="52o" to="3i" fromLane="1" toLane="1" pass="true" />
+	<connection from="52o" to="3i" fromLane="2" toLane="2" pass="true" />
+	
+	<connection from="3o" to="52i" fromLane="0" toLane="0" pass="true" />
+	<connection from="3o" to="52i" fromLane="1" toLane="1" pass="true" />
+	<connection from="3o" to="52i" fromLane="2" toLane="2" pass="true" />
+	
+	<connection from="4i" to="2o" fromLane="1" toLane="1" pass="true" />
+	<connection from="4i" to="3o" fromLane="2" toLane="2" pass="true" />
+	<connection from="4i" to="1o" fromLane="0" toLane="0" pass="true" />
+	
+	<connection from="54o" to="4i" fromLane="0" toLane="0" pass="true" />
+	<connection from="54o" to="4i" fromLane="1" toLane="1" pass="true" />
+	<connection from="54o" to="4i" fromLane="2" toLane="2" pass="true" />
+	
+	<connection from="4o" to="54i" fromLane="0" toLane="0" pass="true" />
+	<connection from="4o" to="54i" fromLane="1" toLane="1" pass="true" />
+	<connection from="4o" to="54i" fromLane="2" toLane="2" pass="true" />
+
+</connections>
